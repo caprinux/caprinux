@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm @Elma 👋
+
+<a href="https://twitter.com/elma_ios?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @elma_ios</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <!--
 **caprinux/caprinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
