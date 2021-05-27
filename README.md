@@ -1,6 +1,6 @@
 ### Hi, I'm @Elma 👋
 
-[![Twitter Badge](https://badgen.net/badge/Twitter/Elma/black?icon=twitter)](https://twitter.com/elma_ios)
+[![Twitter](https://badgen.net/badge/Twitter/Elma/black?icon=twitter)](https://twitter.com/elma_ios)
 
 <!--
 **caprinux/caprinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
