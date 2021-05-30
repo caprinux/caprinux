@@ -8,6 +8,11 @@
 - 🌱 I’m currently learning more about C and Python, as well as some heap-exploitation.
 - 💬 Ask me about anything pwn really!
 - 📫 How to reach me: via [email](https://pl3sticint@gmail.com)
+
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=caprinux&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **caprinux/caprinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
