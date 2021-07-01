@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a `Pwn for Fun and Profit` tutorial series on my website :)
 - 🌱 I’m currently learning more about C and Python, as well as some heap-exploitation.
-- 💬 Ask me about anything pwn really!
+- 💬 Ask me about anything pwn really
 - 📫 How to reach me: via [email](https://pl3sticint@gmail.com)
 
 ---
