@@ -3,9 +3,6 @@
 [![Twitter](https://badgen.net/badge/Twitter/Elma/black?icon=twitter)](https://twitter.com/elma_ios)
 [![Website](https://badgen.net/badge/Website/caprinux/purple?icon=atom)](https://caprinux.github.io)
 
-
-- 🔭 I’m currently working on a `Pwn for Fun and Profit` tutorial series on my website :)
-- 🌱 I’m currently learning more about C and Python, as well as some heap-exploitation.
 - 📫 How to reach me: via [email](https://caprinux@protonmail.com)
 
 ---
